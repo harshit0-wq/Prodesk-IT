@@ -67,19 +67,6 @@ Care was taken to maintain readable typography, sufficient spacing, and accessib
 
 ---
 
-## Testing
-
-To evaluate performance and accessibility using Google Lighthouse:
-
-1. Open Chrome in Incognito Mode.
-2. Press `F12` to open DevTools.
-3. Navigate to the **Lighthouse** tab.
-4. Select:
-
-   * Device: Desktop
-   * Mode: Navigation
-5. Run the audit and review the generated report.
-
 ---
 
 ## Links
